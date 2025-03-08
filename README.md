@@ -1,4 +1,13 @@
+# ⚠️ Currently not working ⚠️
+# ⚠️ Currently not working ⚠️
+# ⚠️ Currently not working ⚠️
+
 # Sigma Obfuscator
+
+
+
+
+
 
 A powerful multi-language code obfuscator designed to protect your source code from reverse engineering.
 
